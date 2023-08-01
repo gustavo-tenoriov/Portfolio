@@ -1,4 +1,4 @@
-<h3>Sobre mim:</h3>
+<h3>🙋🏻‍♂️ Sobre mim:</h3>
 
 - 👨🏻‍💻 Atualmente estou trabalhando como Analista de Dados, sou formado em Economia e estou cursando Mestrado em Informática com foco em Data Science
 - 💡 Procuro colaborar em projetos de Análise/Ciência de Dados, ETL e Machine Learning
