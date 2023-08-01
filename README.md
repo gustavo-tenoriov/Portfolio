@@ -1,8 +1,10 @@
-- 👋 Oi, eu sou o Gustavo ou pode me chamar pelo meu perfil @gustavo-tenoriov
-- 👀 Estou interessado em Análise/ e Visualização de Dados
-- 🌱 Atualmente estou aprendendo sobre Python e SQL
-- 💬 Me pergunte sobre Power BI, Excel e SQL
-- 📫 Você me acha através do email gustavohectort@gmail.com
+<h3>Sobre mim:</h3>
+
+- 👨🏻‍💻 Atualmente estou trabalhando como Analista de Dados e estudando Mestrado em Informática com foco em Data Science
+- 💡 Procuro colaborar em projetos de Análise/Ciência de Dados, ETL e Machine Learning.
+- 📝 Estou começando a escrever e publicar artigos no https://gustavotenorio.medium.com/
+- 💬 Pode me perguntar sobre Python, ETL, SQL, Modelos Estatísticos e Dataviz, entre outros.
+- 📫 Você pode me encontrar através do email gustavohectort@gmail.com ou do Linkedin https://www.linkedin.com/in/gustavotenorioo/
 
 <!---
 gustavo-tenoriov/gustavo-tenoriov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
